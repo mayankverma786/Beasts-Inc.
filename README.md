@@ -1,4 +1,4 @@
-Pokemon Company
+Beasts Inc.
 
 This is an HTML code for a web page that includes a navigation bar and a carousel. The navigation bar has links to different sections of the website, and the carousel displays different images of Pokemon with their descriptions.
 
